@@ -2,7 +2,7 @@
     <h2 class="uppercase mb-3">Portofolio</h2>
 
     <div class="card p-4 mb-4 bg-secondary text-light">                                      
-        <div class="mb-2"> GPS Logger | Angkutan Perintis | Kementrian Perhubungan | Direktorat Angkutan Jalan </div>
+        <div class="mb-2"> GPS Logger | Angkutan Perintis</div>
 
         <div class="row">
             <div class="col-xl-4 col-md-4">
@@ -38,7 +38,7 @@
     </div>
 
     <div class="card p-4 mb-4 bg-secondary text-light">
-        <div class="mb-2">Portal Integrasi | Kementrian Perhubungan | Direktorat Angkutan Jalan</div>
+        <div class="mb-2">Portal Integrasi</div>
 
         <div class="row">
             <div class="col-xl-4 col-md-4">
@@ -69,7 +69,7 @@
     </div>
         
     <div class="card p-4 mb-4 bg-secondary text-light">
-        <div class="mb-2">E-kontrak | Angkutan Perintis | Kementrian Perhubungan | Direktorat Angkutan Jalan</div>
+        <div class="mb-2">E-kontrak | Angkutan Perintis</div>
 
         <div class="row">
             <div class="col-xl-4 col-md-4">

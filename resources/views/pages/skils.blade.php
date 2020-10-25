@@ -92,39 +92,41 @@
         </div>
     </div>
 
-    <div class="subheading mt-3">Other</div>
-    <ul class="fa-ul mb-0">
-        <li>
-            <span class="fa-li"><i class="fas fa-check"></i></span>
-            Linux Server
-        </li>
-        <li>
-            <span class="fa-li"><i class="fas fa-check"></i></span>
-            Docker
-        </li>
-        <li>
-            <span class="fa-li"><i class="fas fa-check"></i></span>
-            Digitalocean
-        </li>
-        <li>
-            <span class="fa-li"><i class="fas fa-check"></i></span>
-            Alibaba
-        </li>
-        <li>
-            <span class="fa-li"><i class="fas fa-check"></i></span>
-            Mikrotik
-        </li>
-        <li>
-            <span class="fa-li"><i class="fas fa-check"></i></span>
-            Visual Basic 6.0
-        </li>
-        <li>
-            <span class="fa-li"><i class="fas fa-check"></i></span>
-            VB.NET
-        </li>
-        <li>
-            <span class="fa-li"><i class="fas fa-check"></i></span>
-            GIT
-        </li>        
-    </ul>
+    <div class="alert alert-secondary" role="alert">
+        <div class="subheading">Other</div>
+        <ul class="fa-ul mb-0">
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                Linux Server
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                Docker
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                Digitalocean
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                Alibaba
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                Mikrotik
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                Visual Basic 6.0
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                VB.NET
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                GIT
+            </li>        
+        </ul>
+    </div>
 </div>
