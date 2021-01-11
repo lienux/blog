@@ -2,6 +2,18 @@
     <h2 class="uppercase mb-3">Portofolio</h2>
 
     <div class="card p-4 mb-4 bg-secondary text-light">                                      
+        <div class="mb-2"> Fleet Manajement System</div>
+
+        <div class="row">
+            <div class="col-xl-4 col-md-4">
+                <div class="card mb-2">
+                    <img src="img/fms/fleetman.png" class="card-img-top" alt="...">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card p-4 mb-4 bg-secondary text-light">                                      
         <div class="mb-2"> GPS Logger | Angkutan Perintis</div>
 
         <div class="row">

@@ -5,7 +5,7 @@
     </h1>
     <div class="mb-5">
         Bogor - Jawa Barat, +62 858-533-83-750 - 
-        <a href="mailto:lienux.qq@gmail.com">lienux.qq@gmail.com</a>
+        <a href="mailto:aku@bocahganteng.com">aku@bocahganteng.com</a>
     </div>
     <p class="lead">
         Programmer | Pejuang Syari'ah dan Khilafah | Pecinta Wanita | Penyayang Anak-anak | Perindu Syurga | Bocah Ganteng | Pembelajar yang rajin | Pendengar setia | Penjaga Islam.
@@ -29,7 +29,7 @@
         <a class="social-icon mb-2" href="https://www.instagram.com/lienuxqq/" target="_blank">
             <i class="fab fa-instagram-square"></i>
         </a>
-        <a class="social-icon mb-2" href="https://www.youtube.com/channel/UCpCrvkZ2d_FzsLt4Wzjw5_w" target="_blank">
+        <a class="social-icon mb-2" href="https://www.youtube.com/c/lienuxqq" target="_blank">
             <i class="fab fa-youtube"></i>
         </a>
     </div>

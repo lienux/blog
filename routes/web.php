@@ -14,8 +14,14 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('index');
+    return view('portofolio');
 });
+
+Route::get('portofolio', 'PortofolioController@index')->name('portofolio');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('welcome', function () {
     return view('welcome');
@@ -24,3 +30,4 @@ Route::get('welcome', function () {
 Route::get('experience-for-negeri-ep', function () {
     return view('experience');
 });
+
