@@ -22,6 +22,8 @@ Route::get('portofolio', 'PortofolioController@index')->name('portofolio');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/tes_api', 'HomeController@tes_api');
+Route::post('/tes_api', 'HomeController@tes_api');
 
 Route::get('welcome', function () {
     return view('welcome');

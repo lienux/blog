@@ -3,9 +3,13 @@
         <span class="text-success">Full Stack</span>
         <span class="text-primary">Developer</span>
     </h1>
-    <div class="mb-5">
+    <div class="">
         Bogor - Jawa Barat, +62 858-533-83-750 - 
         <a href="mailto:aku@bocahganteng.com">aku@bocahganteng.com</a>
+    </div>
+    <div class="mb-2">
+        <a href="http://bocahganteng.com/" target="_balnk">http://bocahganteng.com</a><br>
+        <a href="http://imronali.dev/" target="_blank">http://imronali.dev</a>
     </div>
     <p class="lead">
         Programmer | Pejuang Syari'ah dan Khilafah | Pecinta Wanita | Penyayang Anak-anak | Perindu Syurga | Bocah Ganteng | Pembelajar yang rajin | Pendengar setia | Penjaga Islam.
@@ -29,7 +33,7 @@
         <a class="social-icon mb-2" href="https://www.instagram.com/lienuxqq/" target="_blank">
             <i class="fab fa-instagram-square"></i>
         </a>
-        <a class="social-icon mb-2" href="https://www.youtube.com/c/lienuxqq" target="_blank">
+        <a class="social-icon mb-2" href="https://www.youtube.com/c/ImronAliMuhammad" target="_blank">
             <i class="fab fa-youtube"></i>
         </a>
     </div>
