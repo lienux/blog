@@ -4,12 +4,19 @@
         <span class="text-primary">Developer</span>
     </h1>
     <div class="">
-        Bogor - Jawa Barat, +62 858-533-83-750 - 
-        <a href="mailto:aku@bocahganteng.com">aku@bocahganteng.com</a>
+        <div>
+            <i class="fas fa-map-marker-alt text-success"></i> Jl. Gunung Salak Endah Kp. Purwasari Ds Gunung Sari Kec. Pamijahan Kab. Bogor - Jawa Barat
+        </div>
+        <div><i class="fab fa-whatsapp text-success"></i> +62 858-533-83-750</div>
+        <div>
+            <i class="far fa-envelope text-success"></i> <a href="mailto:lienux.qq@gmail.com">lienux.qq@gmail.com</a> | 
+            <i class="far fa-envelope text-success"></i> <a href="mailto:aku@bocahganteng.com">aku@bocahganteng.com</a> | 
+            <i class="far fa-envelope text-success"></i> <a href="mailto:ali.imron@tron.id">ali.imron@tron.id</a>
+        </div>
+        
     </div>
     <div class="mb-2">
-        <a href="http://bocahganteng.com/" target="_balnk">http://bocahganteng.com</a><br>
-        <a href="http://imronali.dev/" target="_blank">http://imronali.dev</a>
+        <i class="fas fa-globe text-success"></i> <a href="http://bocahganteng.com/" target="_balnk">http://bocahganteng.com</a><br>
     </div>
     <p class="lead">
         Programmer | Pejuang Syari'ah dan Khilafah | Pecinta Wanita | Penyayang Anak-anak | Perindu Syurga | Bocah Ganteng | Pembelajar yang rajin | Pendengar setia | Penjaga Islam.
