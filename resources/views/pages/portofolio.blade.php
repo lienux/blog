@@ -6,6 +6,10 @@
         <ul class="fa-ul mb-0">
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
+                Payment
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
                 Inbound Voice
             </li>
             <li>
@@ -31,6 +35,14 @@
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
                 Booking Hotel (Web + Mobile)
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                Document Manajement System
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                SMS Gateway
             </li>
         </ul>
     </div>

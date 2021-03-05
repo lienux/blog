@@ -26,6 +26,10 @@
         <div class="progress">
             <div class="progress-bar bg-success" role="progressbar" style="width: 90%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
+        Reactjs
+        <div class="progress">
+            <div class="progress-bar bg-success" role="progressbar" style="width: 50%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
     </div>
 
     <div class="alert alert-success" role="alert">
@@ -63,11 +67,11 @@
         </div>
         Lumen
         <div class="progress">
-            <div class="progress-bar bg-primary" role="progressbar" style="width: 80%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+            <div class="progress-bar bg-primary" role="progressbar" style="width: 90%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
         Yii
         <div class="progress">
-            <div class="progress-bar bg-primary" role="progressbar" style="width: 50%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+            <div class="progress-bar bg-primary" role="progressbar" style="width: 75%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
                                    
         <div class="mt-3">
