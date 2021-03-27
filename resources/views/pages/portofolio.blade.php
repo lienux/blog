@@ -6,7 +6,11 @@
         <ul class="fa-ul mb-0">
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
-                Payment
+                Payment Integration with Kaspro, Finnet
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                SMS Gateway
             </li>
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
@@ -42,7 +46,23 @@
             </li>
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
-                SMS Gateway
+                Fleet Manajement System
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                GPS Logger
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                Portal Integrasi GPS
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                Ekontrak Angkutan Perintis
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                Aplikasi Data Keuangan Santri
             </li>
         </ul>
     </div>
