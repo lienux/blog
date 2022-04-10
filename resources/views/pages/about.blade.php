@@ -9,19 +9,19 @@
         </div>
         <div><i class="fab fa-whatsapp text-success"></i> +62 858-533-83-750</div>
         <div>
-            <i class="far fa-envelope text-success"></i> <a href="mailto:lienux.qq@gmail.com">lienux.qq@gmail.com</a> | 
-            <i class="far fa-envelope text-success"></i> <a href="mailto:aku@bocahganteng.com">aku@bocahganteng.com</a> | 
+            <i class="far fa-envelope text-success"></i> <a href="mailto:lienux.qq@gmail.com">lienux.qq@gmail.com</a> |
+            <!-- <i class="far fa-envelope text-success"></i> <a href="mailto:aku@bocahganteng.com">aku@bocahganteng.com</a> | -->
             <i class="far fa-envelope text-success"></i> <a href="mailto:ali.imron@tron.id">ali.imron@tron.id</a>
         </div>
-        
+
     </div>
     <div class="mb-2">
-        <i class="fas fa-globe text-success"></i> <a href="http://bocahganteng.com/" target="_balnk">http://bocahganteng.com</a> | 
-        <i class="fas fa-globe text-success"></i> <a href="http://devjkt.com/" target="_balnk">http://devjkt.com</a> |
-        <i class="fas fa-globe text-success"></i> <a href="http://ngajingoding.com/" target="_balnk">http://ngajingoding.com</a><br>
+        <i class="fas fa-globe text-success"></i> <a href="http://bocahganteng.com/" target="_balnk">http://bocahganteng.com</a> |
+        <!-- <i class="fas fa-globe text-success"></i> <a href="http://devjkt.com/" target="_balnk">http://devjkt.com</a> | -->
+        <!-- <i class="fas fa-globe text-success"></i> <a href="http://ngajingoding.com/" target="_balnk">http://ngajingoding.com</a><br> -->
     </div>
     <p class="lead">
-        Programmer | Pejuang Syari'ah dan Khilafah | Pecinta Wanita | Penyayang Anak-anak | Perindu Syurga | Bocah Ganteng | Pembelajar yang rajin | Pendengar setia | Penjaga Islam.
+        Programmer | Pengamat Dunia | Pejuang Syari'ah dan Khilafah | Pecinta Wanita | Penyayang Anak-anak | Perindu Syurga | Bocah Ganteng | Pembelajar yang rajin | Pendengar setia | Penjaga Islam.
     </p>
     <div class="social-icons">
         <a class="social-icon mb-2" href="https://www.linkedin.com/in/m-ali-imron-qq-8262b1148/" target="_blank">
