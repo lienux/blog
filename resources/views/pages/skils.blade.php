@@ -1,5 +1,14 @@
 <div class="resume-section-content">
-    <h2 class="uppercase">Skills</h2>  
+    <h2 class="uppercase">Skills</h2>
+
+    <div class="alert alert-info" role="alert">                               
+        <div class="subheading">UI/UX Desain</div>                        
+        Figma
+        <div class="progress">
+            <div class="progress-bar bg-success" role="progressbar" style="width: 90%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+    </div>
+
     <div class="alert alert-danger" role="alert">                                      
         <div class="subheading">Web Frontend</div>                        
         HTML
