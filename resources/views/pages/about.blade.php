@@ -1,7 +1,7 @@
 <div class="resume-section-content">
     <h1 class="mb-0 uppercase">
-        <span class="text-success">Full Stack</span>
-        <span class="text-primary">Developer</span>
+        <span class="text-success">Programmer</span>
+        <span class="text-primary">Islami</span>
     </h1>
     <div class="">
         <div>

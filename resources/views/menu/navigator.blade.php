@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-navigator" id="sideNav">
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
-        <span class="d-block d-lg-none">Fullstack Developer</span>
+        <span class="d-block d-lg-none">Programmer Islami</span>
         <span class="d-none d-lg-block">
             <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile2.png" alt="" />
         </span>
