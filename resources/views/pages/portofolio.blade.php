@@ -15,7 +15,7 @@
             </li> -->
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
-                Sistem Informasi Akademik
+                Sistem Informasi Akademik <span class="badge bg-success text-light">[ STIKOM ELRAHMA ]</span>
             </li>
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
@@ -23,7 +23,7 @@
             </li>
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
-                Trontrack | <a href="http://trontrack.id" target="_balck">trontrack.id</a>
+                Trontrack | <a href="http://trontrack.id" target="_balck">trontrack.id</a> <span class="badge bg-success text-light">[ TRON ]</span>
             </li>
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
