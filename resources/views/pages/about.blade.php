@@ -14,7 +14,7 @@
 
     </div>
     <div class="mb-2">
-        <i class="fas fa-globe text-success"></i> <a href="http://bocahganteng.com/" target="_balnk">http://bocahganteng.com</a>
+        <i class="fas fa-globe text-success"></i> <a href="https://bocahganteng.com/" target="_balnk">www.bocahganteng.com</a>
     </div>
     <p class="lead">
         Programmer | Pengamat Dunia | Pejuang Syari'ah dan Khilafah | Pecinta Wanita | Penyayang Anak-anak | Perindu Syurga | Bocah Ganteng | Pembelajar yang rajin | Pendengar setia | Penjaga Islam.
