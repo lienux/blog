@@ -97,6 +97,28 @@
     </div>
 
     <div class="card p-4 mb-4 bg-secondary text-light">
+        <div class="mb-2"> Tijket Travel</div>
+
+        <div class="row">
+            <div class="col-xl-4 col-md-4">
+                <div class="card mb-2">
+                    <img src="img/tijket/1.png" class="card-img-top" alt="...">
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-4">
+                <div class="card mb-2">
+                    <img src="img/tijket/2.png" class="card-img-top" alt="...">
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-4">
+                <div class="card mb-2">
+                    <img src="img/tijket/3.png" class="card-img-top" alt="...">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card p-4 mb-4 bg-secondary text-light">
         <div class="mb-2"> Lawhuis</div>
 
         <div class="row">
