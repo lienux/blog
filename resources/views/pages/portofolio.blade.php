@@ -15,6 +15,10 @@
             </li> -->
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
+                Sistem Penjualan Tiket Bali Fast Boat | <a href="https://tijket.my.id" target="_balck">tijket.my.id</a>
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
                 Sistem Informasi Akademik <span class="badge bg-success text-light">[ STIKOM ELRAHMA ]</span>
             </li>
             <li>
@@ -27,7 +31,7 @@
             </li>
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
-                Payment Integration with Kaspro, Finnet
+                Payment Integration with Kaspro, Finnet, Midtrans, Bank DKI
             </li>
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
