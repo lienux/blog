@@ -15,6 +15,18 @@
             </li> -->
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
+                Route Planner | <span class="badge bg-success text-light">[ PT. Easygo Indonesia ]</span>
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                TMS / Transportation Manajement System | <span class="badge bg-success text-light">[ PT. Easygo Indonesia ]</span>
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                VTS Admin (ERP) | <span class="badge bg-success text-light">[ PT. Easygo Indonesia ]</span>
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
                 Sistem Penjualan Tiket Bali Fast Boat | <a href="https://tijket.my.id" target="_balck">tijket.my.id</a>
             </li>
             <li>
@@ -35,7 +47,7 @@
             </li>
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
-                MyOrganda <span class="badge bg-success text-light">[ TRON / Organisasi Angkutan Darat ]</span>
+                MyOrganda <span class="badge bg-success text-light">[ PT. Teknologi Karya Digital Nusa ]</span>
             </li>
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>

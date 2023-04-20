@@ -1,13 +1,13 @@
 <div class="resume-section-content">
     <h1 class="mb-0 uppercase">
-        <span class="text-success">Programmer</span>
-        <span class="text-primary">Islami</span>
+        <span class="text-success">M. ALI IMRON</span>
+        <span class="text-primary">QQ</span>
     </h1>
     <div class="">
         <div>
             <i class="fas fa-map-marker-alt text-success"></i> Jl. Gunung Salak Endah Kp. Purwasari Ds Gunung Sari Kec. Pamijahan Kab. Bogor - Jawa Barat
         </div>
-        <div><i class="fab fa-whatsapp text-success"></i> +62 858-533-83-750</div>
+        <div><i class="fab fa-whatsapp text-success"></i> +62 877-1894-2156</div>
         <div>
             <i class="far fa-envelope text-success"></i> <a href="mailto:lienux.qq@gmail.com">lienux.qq@gmail.com</a>
         </div>

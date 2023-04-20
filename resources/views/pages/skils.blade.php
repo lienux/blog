@@ -98,6 +98,34 @@
     </div>
 
     <div class="alert alert-secondary" role="alert">
+        <div class="subheading">.NET and C#</div>                    
+        ASP .NET Core
+        <div class="progress">
+            <div class="progress-bar bg-primary" role="progressbar" style="width: 75%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+        REST APIs with .NET Core
+        <div class="progress">
+            <div class="progress-bar bg-primary" role="progressbar" style="width: 75%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+        ASP.NET Core Blazor
+        <div class="progress">
+            <div class="progress-bar bg-primary" role="progressbar" style="width: 75%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+        ASP.NET MVC Pattern
+        <div class="progress">
+            <div class="progress-bar bg-primary" role="progressbar" style="width: 75%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+        Real-time ASP.NET with SignalR
+        <div class="progress">
+            <div class="progress-bar bg-primary" role="progressbar" style="width: 75%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+        Microservices with .NET
+        <div class="progress">
+            <div class="progress-bar bg-primary" role="progressbar" style="width: 75%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+    </div>
+
+    <div class="alert alert-secondary" role="alert">
         <div class="subheading">Database</div>
         MySQL
         <div class="progress">
@@ -106,6 +134,14 @@
         PostgreSQL
         <div class="progress">
             <div class="progress-bar bg-warning" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+        MongoDB
+        <div class="progress">
+            <div class="progress-bar bg-warning" role="progressbar" style="width: 70%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+        SQL Server
+        <div class="progress">
+            <div class="progress-bar bg-warning" role="progressbar" style="width: 85%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
     </div>
 
@@ -143,7 +179,11 @@
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
                 GIT
-            </li>        
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                Azure DevOps
+            </li>       
         </ul>
     </div>
 </div>
